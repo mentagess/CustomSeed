@@ -1,1 +1,4 @@
-name
+name: CustomSeed_by_Mentagess
+main: Mentagess\Seed\Main
+version: 1.0
+api: 3.0.0
